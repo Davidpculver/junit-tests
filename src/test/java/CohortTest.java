@@ -47,6 +47,7 @@ public class CohortTest {
     }
 
     @Test
+
     public void testCohortAverage() {
         Cohort cohort = new Cohort();
 //        Student stud = new Student(2, "Stud Studly");
